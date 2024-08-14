@@ -8,8 +8,6 @@
 # REPO_TOKEN密匙制作教程：https://git.io/jm.md
 #
 #
-schedule:
-  - cron: cron: 30 8 * * 5
 
 name: OpenWrt_Build_x64_all
 on:
